@@ -1,0 +1,13 @@
+.logo {
+  width: 400px;
+  height: 500px;
+  background-image: url(assets/img/ded-ulybaetsya-foto.jpg);
+}
+
+.totoro {
+  width: 300px;
+  height: 500px;
+  background-image: url(assets/img/totoro.png);
+}
+
+body{background-color:#daa520}
